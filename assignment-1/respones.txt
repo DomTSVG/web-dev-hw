@@ -1,0 +1,43 @@
+-------------------------------------------
+How is the web different from the internet?
+-------------------------------------------
+Well, plainly put, it refers to the way the two are built. 
+The internet is a connection of networks over which computers and other devices can communicate.
+The world wide web is an idea that information on those networks can be connected through hyperlinks rather than branches.
+In this sense, the web is referring to the collection of information on the internet, and how it is connected together.
+
+-------------------------------------------
+How does the internet actually work?
+-------------------------------------------
+The internet works as a "wire" of sorts that many servers with different IP addresses connect to.
+Web pages on the internet are actually stored on those servers' hard drives.
+We find these pages by locating and connecting our computer to these IP addresses, usually represented by web URLs.
+Your computer is a client connected to the internet via an ISP.
+The information your computer sends to connect goes through the ISP and to the website server.
+Further on, the website's server can send information to another client. 
+Website clients can also connect to eachother through the internet.
+
+-------------------------------------------
+What is a directory in relation to files?
+-------------------------------------------
+A directory is a branch of file folders in a sense, used to organize files into a heirarchy.
+In this sense, it's like a group of folders you'd create on your computer for photos and whatnot.
+On the web, these directories work like a path to find pages, images, and more... Files!
+How these folders are grouped determines how the service works, and how we find different files within.
+
+------------------------------------------
+Why use a VCS?
+------------------------------------------
+Using a version control system or "VCS" allows you to view the changes made to files in a repository.
+Why this is helpful draws back to the root of the creation of files and code.
+When you make changes, those changes need to be heavily documented, and a VCS makes sure that it is.
+You can usually view all of your changes made through a VCS so that you can undo or return to a previous version.
+A VCS can also serve as an organizational tool for the files and repositories.
+
+------------------------------------------
+What's something that I didn't know before?
+------------------------------------------
+I didn't know that the very first bit of information sent over the internet was not only a failure, but two letters, "L" and "O".
+The development of the internet is a fascinating process that isn't known by many, apparently.
+While we group together the internet and the web, most people don't know the difference.
+Learning that difference was helpful and interesting.
