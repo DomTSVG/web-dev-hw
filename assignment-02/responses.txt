@@ -1,0 +1,26 @@
+-------------------------------------------
+How can data travel through the internet?
+-------------------------------------------
+Data through the internet is sent via binary code, or bites. As some know, there's 8 bits, or ones/zeroes, in a byte.
+These bits can be sent by electricity like lightbulbs turning on and off like morse code.
+You can increase how fast each bit is sent by increasing the bandwidth, changing how many bits are sent per second.
+These signals can be sent through different kinds of cables too, like ethernet or fiber optic.
+
+-------------------------------------------
+What is the relationship between the IP address and DNS?
+-------------------------------------------
+The IP address, or internet protocol address, is tied to a computer like a mailing address.
+Our new IP address format (IPV6) is comprised of 128 bits, which provides 340 undecillion addresses.
+Your computer uses the Domain Name System (DNS) to lookup and identify IP addresses easier.
+Once the computer finds the domain name (like www.google.com) it takes the IP address and connects to it.
+
+-------------------------------------------
+What is a cookie?
+-------------------------------------------
+Unlike the popular baked good, an internet cookie is used like an ID card on websites.
+Your browser saves them in order to automatically attatch it to requests to a website.
+
+------------------------------------------
+What are the three basic parts of a URL?
+------------------------------------------
+A URL is made of 3 parts, the protocol (like https), domain (like google.com), and subdomain (like www.).
