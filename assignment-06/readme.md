@@ -1,0 +1,5 @@
+1. The most common form you'll see on the web is a login and signup form, storing and calling data used for personalized experiences and profiles. Another form you may not recognize is the search function on websites, as it works exactly like a form.
+2. Button inputs are used to select gender in things like job applications, text inputs are used to post comments in chatboxes or comment sections on twitch and youtube, and selections are used in dropdowns for things like filters in searches.
+3. The work cycle for this assignment went as such; choose business (locally owned pizza place in my hometown), find their info (had to use facebook as well as google), and build the site. Had to do a lot of playing around with the forms, which is why I love atom and it's auto-fill/creation.
+4. I've learned how to create forms, which makes me wonder if I could create a login form for a website. Food for thought.
+5. I didn't have any real problems, except I have no idea what to use for the submit button image in the diagram.
