@@ -41,16 +41,18 @@
     <form class="" action="index.html" method="post">
       <h4>Feedback</h4><br>
       You can submit short feedback on us below!<br>
-      <h5>Experience</h5>
+      <fieldset>
+      <label><h5>Experience</h5></label>
       <input type="radio" name="Experience" value="Good!"> Good!<br>
-      <input type="radio" name="Experience" value="Bad!"> Bad!
-      <h5>Comments</h5>
-      <textarea name="name" rows="2" cols="50"></textarea>
-      <h5>Name</h5>
-      <input type="text" name="Name" value="John Doe" size="20">
-      <h5>Email</h5>
-      <input type="text" name="Email" value="mail@mail.com">
+      <input type="radio" name="Experience" value="Bad!"> Bad!<br>
+      <label><h5>Comment</h5></label>
+      <textarea name="name" rows="1" cols="50"></textarea><br>
+      <label><h5>Name</h5></label>
+      <input type="text" name="Name" value="John Doe" size="20"><br>
+      <label><h5>Email</h5></label>
+      <input type="text" name="Email" value="mail@mail.com"><br>
       <input type="submit" name="Submit" value="Submit">
+      </fieldset>
     </form>
   </body>
 </html>
