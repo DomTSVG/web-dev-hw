@@ -1,0 +1,3 @@
+1. HTML was decently entertaining to learn. A lot of my elarning was supplemented outside of the class, which was enriching. Pretty much everything was new except markdown and certain style elements. Linking was my favorite thing to learn. Images are annoying, but not as annoying as forms.
+2. I'm neutral on learning CSS as we already used some of it within our work. I want to learn it in better detail.
+3. My work cycle started with selecting my topic, moved on to the technical portion of designing the page, learning about background images, and setting up the nav, and then we were on to the writing.
