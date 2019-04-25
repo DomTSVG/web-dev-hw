@@ -56,6 +56,28 @@ b {
   display: inline-block;
 }
 
+.dropdown {
+  border-style: groove;
+  border-color: brown;
+  margin: auto;
+  padding: 2px;
+  background-color: tan;
+  display: inline-block;
+}
+
+.drop-cont {
+  display: none;
+  border-style: groove;
+  border-color: brown;
+  margin: auto;
+  padding: 2px;
+  background-color: tan;
+}
+
+.dropdown:hover .drop-cont {
+    display: block;
+}
+
 .container {
   border-style: outset;
   border-width: thick;
